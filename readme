@@ -1,0 +1,5 @@
+token: e1bc643307093c415d8e2ad33c732014
+
+-h show help
+-s [CITY] - set city
+-t [API_KEY] - set token
